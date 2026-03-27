@@ -35,5 +35,6 @@ Etapas:
 
 
  **Explicação:**
+ 
 A Expressão Regular utiliza o "|" para tornar possível a identificação de qualquer caracter, tornando-a mais genérica e capaz de capturar todos os identificadores (a-z, A-Z), números (0-9) e operadores (+, -, *, /). A flag /g (global) serve para capturar todos os tokens da string, sem esta flag ativa, apenas o primeiro termo da string será capturado. Os espaços, por sua vez, são ignorados por não fazeram parte dos padrões estabelecidos.
 

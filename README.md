@@ -28,7 +28,7 @@ Etapas:
 
 **Atividade 2 – Expressões Regulares online (regexr + regex101):**
 
- *Regex para capturar todos os tokens
+ * Regex para capturar todos os tokens
  <img width="874" height="517" alt="Captura de tela 2026-03-27 191326" src="https://github.com/user-attachments/assets/e7a13165-26f6-4f3c-bb98-8cad0dbe7a52" />
 
  **Explicação:**

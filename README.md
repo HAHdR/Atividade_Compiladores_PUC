@@ -3,6 +3,7 @@
 **EQUIPE:** Henrique Abreu Hollanda da Rocha, Matheus Guido Noronha Moreira Passos, Thiago Salanti Mambrini.
 
 **Atividade 1 – Bash no Terminal Ubuntu: Simulando o “fluxo de entrada” do Scanner:**
+
 Etapas:
   * Criar arquivo scanner_simples.sh
   <img width="748" height="37" alt="Captura de tela 2026-03-27 182858" src="https://github.com/user-attachments/assets/17f2050f-c39e-491a-a5a8-3dda7056796b" />

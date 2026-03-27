@@ -21,6 +21,11 @@ Etapas:
 
 
 
+
+
+
+
+
 **Atividade 2 – Expressões Regulares online (regexr + regex101):**
 
  *Regex para capturar todos os tokens

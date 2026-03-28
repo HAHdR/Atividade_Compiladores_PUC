@@ -38,3 +38,25 @@ Etapas:
  
 A Expressão Regular utiliza o "|" para tornar possível a identificação de qualquer caracter, tornando-a mais genérica e capaz de capturar todos os identificadores (a-z, A-Z), números (0-9) e operadores (+, -, *, /). A flag /g (global) serve para capturar todos os tokens da string, sem esta flag ativa, apenas o primeiro termo da string será capturado. Os espaços são ignorados por não fazeram parte dos padrões estabelecidos.
 
+
+
+**Atividade 3 – Find/Replace com regex em editores de texto:**
+
+
+ * Remover todos os comentários // e /* */ de um arquivo grande.
+   <img width="383" height="279" alt="image" src="https://github.com/user-attachments/assets/d4993a5f-01fd-4916-b68d-063dc030e7fe" />
+   <img width="966" height="260" alt="image" src="https://github.com/user-attachments/assets/ad4acc18-aa78-480a-8687-331bd918448b" />
+ 
+ * Substituir todos os = por := (simulando mudança de linguagem).
+   <img width="1019" height="311" alt="image" src="https://github.com/user-attachments/assets/20061050-ddaf-4190-85c0-ec622d6849e7" />
+   
+* Limpar espaços extras em um arquivo de dados CSV maior que 10 mil linhas (registros).
+* Tornar um CSV em um TSV
+* CSV com dados em português converter para inglês, trocar , -> . e , -> ;
+   <img width="1192" height="480" alt="image" src="https://github.com/user-attachments/assets/c4fd0ee3-278f-4d5b-8910-c038d05f2145" />
+
+
+
+   
+
+

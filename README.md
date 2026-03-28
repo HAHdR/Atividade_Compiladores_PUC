@@ -42,8 +42,8 @@ A Expressão Regular utiliza o "|" para tornar possível a identificação de qu
 
 **Atividade 3 – Find/Replace com regex em editores de texto:**
 
-
  * Remover todos os comentários // e /* */ de um arquivo grande.
+   
    <img width="383" height="279" alt="image" src="https://github.com/user-attachments/assets/d4993a5f-01fd-4916-b68d-063dc030e7fe" />
    <img width="966" height="260" alt="image" src="https://github.com/user-attachments/assets/ad4acc18-aa78-480a-8687-331bd918448b" />
  

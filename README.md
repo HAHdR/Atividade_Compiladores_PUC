@@ -70,9 +70,20 @@ A Expressão Regular utiliza o "|" para tornar possível a identificação de qu
 
   <img width="451" height="234" alt="image" src="https://github.com/user-attachments/assets/b15cba8c-0e3d-405e-b18d-875f931ff790" />
 
+**Atividade 5 - Automato Finito**
 
+* Criar DFA (Deterministic Finite Automata) para reconhecer números inteiros:
+   <img width="600" height="280" alt="image" src="https://github.com/Noronha212/imagens/blob/main/AFD_inteiros.png" />
 
+* Criar DFA para identificadores:
+   <img width="600" height="280" alt="image" src="https://github.com/Noronha212/imagens/blob/main/DFA_identificadores.png" />
 
-   
+* Criar NFA (Non-Deterministic Finite Automata - Pode seguir mais de um fluxo) para operador = e == (ambiguidade):
+  <img width="600" height="280" alt="image" src="https://github.com/Noronha212/imagens/blob/main/DFA_identificadores.png" />
+
+* Converter NFA → DFA (ferramenta automática do JFLAP):
+  <img width="600" height="280" alt="image" src="https://github.com/Noronha212/imagens/blob/main/AFD_AFN.png" />
+
+* Simular passo a passo com a string do livro:   
 
 

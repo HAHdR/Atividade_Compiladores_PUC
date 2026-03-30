@@ -55,6 +55,22 @@ A Expressão Regular utiliza o "|" para tornar possível a identificação de qu
 * CSV com dados em português converter para inglês, trocar , -> . e , -> ;
    <img width="1192" height="480" alt="image" src="https://github.com/user-attachments/assets/c4fd0ee3-278f-4d5b-8910-c038d05f2145" />
 
+**Atividade 4 -  RegExp em Python e Java**
+
+* Implementar um mini-scanner em Python e Java.
+* Mostrando os tokens e emails reconhecidos pelo programa em Python, feito no Colab.
+  <img width="599" height="265" alt="image" src="https://github.com/user-attachments/assets/5716d227-85f3-4716-bbc4-8a3b191b632f" />
+
+* Mostrando os tokens gerados pelo código em Java:
+
+  <img width="566" height="276" alt="image" src="https://github.com/user-attachments/assets/f450f67f-a5b2-4916-8009-9c4eba7344bd" />
+
+* Parte final - desafio: Tokenizar o exemplo completo do livro e imprimir exatamente como na Figura 1.7 do Dragon Book.
+* Saída do scanner após tokenizar o exemplo do livro:
+
+  <img width="451" height="234" alt="image" src="https://github.com/user-attachments/assets/b15cba8c-0e3d-405e-b18d-875f931ff790" />
+
+
 
 
    

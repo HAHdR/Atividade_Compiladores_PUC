@@ -73,7 +73,7 @@ A Expressão Regular utiliza o "|" para tornar possível a identificação de qu
 **Atividade 5 - Automato Finito**
 
 * Criar DFA (Deterministic Finite Automata) para reconhecer números inteiros:
-   <img width="600" height="280" alt="image" src="https://github.com/Noronha212/imagens/blob/main/AFD_inteiros.png" />
+   <img width="600" height="280" alt="image" src="https://github.com/Noronha212/imagens/blob/main/AFD_inteiros2.png" />
 
 * Criar DFA para identificadores:
    <img width="600" height="280" alt="image" src="https://github.com/Noronha212/imagens/blob/main/AFD_identificadores2.png" />

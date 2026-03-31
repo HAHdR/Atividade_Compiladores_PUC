@@ -76,7 +76,7 @@ A Expressão Regular utiliza o "|" para tornar possível a identificação de qu
    <img width="600" height="280" alt="image" src="https://github.com/Noronha212/imagens/blob/main/AFD_inteiros.png" />
 
 * Criar DFA para identificadores:
-   <img width="600" height="280" alt="image" src="https://github.com/Noronha212/imagens/blob/main/DFA_identificadores2.png" />
+   <img width="600" height="280" alt="image" src="https://github.com/Noronha212/imagens/blob/main/AFD_identificadores2.png" />
 
 * Criar NFA (Non-Deterministic Finite Automata - Pode seguir mais de um fluxo) para operador = e == (ambiguidade):
   <img width="600" height="280" alt="image" src="https://github.com/Noronha212/imagens/blob/main/AFN_iguais.png" />

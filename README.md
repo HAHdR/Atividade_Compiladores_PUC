@@ -84,6 +84,9 @@ A Expressão Regular utiliza o "|" para tornar possível a identificação de qu
 * Converter NFA → DFA (ferramenta automática do JFLAP):
   <img width="600" height="280" alt="image" src="https://github.com/Noronha212/imagens/blob/main/AFD_AFN.png" />
 
-* Simular passo a passo com a string do livro:   
+* Simular passo a passo com a string do livro: "const pi = 3.1416;"
+  <img width="600" height="280" alt="image" src="https://github.com/Noronha212/imagens/blob/main/AFN_final.png" />
+  <img width="600" height="280" alt="image" src="https://github.com/Noronha212/imagens/blob/main/AFN_saida.png" />
+  
 
 

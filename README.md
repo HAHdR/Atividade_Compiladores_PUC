@@ -147,3 +147,18 @@ Token léxico → semântica + sintaxe
 Token de LLM → estatística + compressão
 
 Eles só compartilham o nome “token”, mas são conceitos totalmente diferentes.*
+
+**Atividade 7 - Tokenizar livro em português (Criar analisador léxico, scanner**
+
+Livro escolhido pelo grupo do site do projeto Gutenberg: "A Revolução Portugueza: O 31 de Janeiro (Porto 1891)"
+
+* Print da saída do programa em Python:
+
+ <img width="1851" height="793" alt="image" src="https://github.com/user-attachments/assets/727f1a57-ac07-477a-973a-17ee01cbac3b" />
+
+* Print da saída do mesmo programa em Java:
+
+ <img width="1919" height="643" alt="image" src="https://github.com/user-attachments/assets/4d7c0df8-7a25-42dc-aa5a-73530fade002" />
+
+
+

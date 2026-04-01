@@ -88,5 +88,62 @@ A Expressão Regular utiliza o "|" para tornar possível a identificação de qu
   <img width="600" height="280" alt="image" src="https://github.com/Noronha212/imagens/blob/main/AFN_final.png" />
   <img width="600" height="280" alt="image" src="https://github.com/Noronha212/imagens/blob/main/AFN_saida.png" />
   
+**Atividade 6 - OpenAI Tokenizer × Tokens de Compilador**
+<img width="350" height="180" alt="image" src="https://github.com/user-attachments/assets/f450f67f-a5b2-4916-8009-9c4eba7344bd" />
+<img width="350" height="180" alt="image" src="https://github.com/Noronha212/imagens/blob/main/Tokens.png">
 
+*Por que “position” vira “pos + ition”?
 
+Isso acontece principalmente por três motivos:
+
+1 - Frequência no idioma
+
+Partes como:
+
+“pos”
+“ition”
+
+aparecem em várias palavras:
+
+position
+composition
+transition
+positive
+
+Então o modelo aprende que essas partes são úteis e reutilizáveis.
+
+3 - Algoritmo de tokenização
+
+Modelos da OpenAI usam técnicas como:
+
+Byte Pair Encoding (BPE)
+ou variantes mais modernas
+
+Esses algoritmos:
+
+Começam com caracteres individuais
+Vão juntando os pares mais frequentes
+Criam “blocos” reutilizáveis
+
+Resultado: nem sempre a palavra inteira vira um token único
+
+3 - Eficiência de vocabulário
+
+Se cada palavra fosse um token:
+
+o vocabulário seria gigantesco
+difícil de treinar e generalizar
+
+Com subpalavras:
+
+menos tokens no vocabulário
+consegue lidar com palavras novas (ex: “repositioning”)*
+
+*"Qual é a diferença conceitual entre token léxico (segue gramática regular da linguagem) e token de LLM (BPE – Byte Pair Encoding)"?
+
+Um token léxico, usado em Compiladores, é uma unidade com significado sintático definido por regras formais (como palavras-chave, identificadores e operadores), reconhecida por gramáticas e Expressões Regulares; já um token de LLM, baseado em Byte Pair Encoding, é uma divisão do texto em subpartes estatísticas escolhidas por frequência, sem compromisso com o significado linguístico, visando apenas eficiência na representação e previsão de texto.
+
+Token léxico → semântica + sintaxe
+Token de LLM → estatística + compressão
+
+Eles só compartilham o nome “token”, mas são conceitos totalmente diferentes.*

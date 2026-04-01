@@ -1,5 +1,5 @@
 # Atividade_Compiladores_PUC
-
+***************************************************************************************
 **FACULDADE:** PUCSP
 
 **CURSO:** Ciência da Computação
@@ -8,6 +8,7 @@
 
 
 **EQUIPE:** Henrique Rocha, Matheus Passos, Thiago Mambrini.
+***************************************************************************************
 
 **Atividade 1 – Bash no Terminal Ubuntu: Simulando o “fluxo de entrada” do Scanner:**
 

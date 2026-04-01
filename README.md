@@ -1,6 +1,9 @@
 # Atividade_Compiladores_PUC
 
-**EQUIPE:** Henrique Abreu Hollanda da Rocha, Matheus Guido Noronha Moreira Passos, Thiago Salanti Mambrini.
+**FACULDADE:** PUCSP
+**CURSO:** Ciência da Computação
+**DISCIPLINA:** Compiladores
+**EQUIPE:** Henrique Rocha, Matheus Passos, Thiago Mambrini.
 
 **Atividade 1 – Bash no Terminal Ubuntu: Simulando o “fluxo de entrada” do Scanner:**
 
@@ -160,5 +163,8 @@ Livro escolhido pelo grupo do site do projeto Gutenberg: "A Revolução Portugue
 
  <img width="1919" height="643" alt="image" src="https://github.com/user-attachments/assets/4d7c0df8-7a25-42dc-aa5a-73530fade002" />
 
+**UM PARÁGRAFO DE CADA ALUNO:** “O que há de interessante no analisador léxico (scanner), automato finito, gramática regular”
 
+**Henrique:**
+O analisador léxico (scanner) é interessante porque representa a primeira etapa do compilador, sendo responsável por transformar o código-fonte em tokens organizados, facilitando o trabalho das etapas seguintes ao eliminar espaços e comentários e estruturar os elementos do programa. O autômato finito também é relevante por ser eficiente para reconhecer padrões em cadeias de caracteres por meio de estados e transições, sendo amplamente utilizado na implementação de analisadores léxicos. Já a gramática regular é importante porque define como cadeias válidas de uma linguagem podem ser formadas, além de ter relação direta com os autômatos finitos, permitindo representar essas regras de forma prática e servindo como base teórica para o reconhecimento de estruturas simples em linguagens.
 

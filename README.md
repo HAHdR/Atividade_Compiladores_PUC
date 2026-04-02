@@ -112,6 +112,8 @@ A Expressão Regular utiliza o "|" para tornar possível a identificação de qu
 
 
 <img width="350" height="180" alt="image" src="https://github.com/user-attachments/assets/f450f67f-a5b2-4916-8009-9c4eba7344bd" />
+
+
 <img width="350" height="180" alt="image" src="https://github.com/Noronha212/imagens/blob/main/Tokens.png">
 
 *Por que “position” vira “pos + ition”?
@@ -134,7 +136,7 @@ positive
 
 Então o modelo aprende que essas partes são úteis e reutilizáveis.
 
-3 - Algoritmo de tokenização
+2 - Algoritmo de tokenização
 
 Modelos da OpenAI usam técnicas como:
 

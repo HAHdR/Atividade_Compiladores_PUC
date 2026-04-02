@@ -1,6 +1,6 @@
 # Atividade_Compiladores_PUC
 ***************************************************************************************
-**FACULDADE:** PUCSP
+**FACULDADE:** PUC-SP
 
 **CURSO:** Ciência da Computação
 
@@ -112,6 +112,8 @@ A Expressão Regular utiliza o "|" para tornar possível a identificação de qu
 
 
 <img width="350" height="180" alt="image" src="https://github.com/user-attachments/assets/f450f67f-a5b2-4916-8009-9c4eba7344bd" />
+
+
 
 
 <img width="350" height="180" alt="image" src="https://github.com/Noronha212/imagens/blob/main/Tokens.png">

@@ -164,7 +164,7 @@ Eles só compartilham o nome “token”, mas são conceitos totalmente diferent
 
 
 
-**Atividade 7 - Tokenizar livro em português (Criar analisador léxico, scanner**
+**Atividade 7 - Tokenizar livro em português (Criar analisador léxico, scanner)**
 
 Livro escolhido pelo grupo do site do projeto Gutenberg: "A Revolução Portugueza: O 31 de Janeiro (Porto 1891)"
 
@@ -175,6 +175,8 @@ Livro escolhido pelo grupo do site do projeto Gutenberg: "A Revolução Portugue
 * Print da saída do mesmo programa em Java:
 
  <img width="1919" height="643" alt="image" src="https://github.com/user-attachments/assets/4d7c0df8-7a25-42dc-aa5a-73530fade002" />
+
+
 
 **UM PARÁGRAFO DE CADA ALUNO:** “O que há de interessante no analisador léxico (scanner), automato finito, gramática regular”
 

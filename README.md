@@ -63,6 +63,8 @@ A Expressão Regular utiliza o "|" para tornar possível a identificação de qu
 * CSV com dados em português converter para inglês, trocar , -> . e , -> ;
    <img width="1192" height="480" alt="image" src="https://github.com/user-attachments/assets/c4fd0ee3-278f-4d5b-8910-c038d05f2145" />
 
+
+
 **Atividade 4 -  RegExp em Python e Java**
 
 * Implementar um mini-scanner em Python e Java.
@@ -77,6 +79,8 @@ A Expressão Regular utiliza o "|" para tornar possível a identificação de qu
 * Saída do scanner após tokenizar o exemplo do livro:
 
   <img width="451" height="234" alt="image" src="https://github.com/user-attachments/assets/b15cba8c-0e3d-405e-b18d-875f931ff790" />
+
+
 
 **Atividade 5 - Automato Finito**
 
@@ -95,6 +99,8 @@ A Expressão Regular utiliza o "|" para tornar possível a identificação de qu
 * Simular passo a passo com a string do livro: "const pi = 3.1416;"
   <img width="600" height="280" alt="image" src="https://github.com/Noronha212/imagens/blob/main/AFN_final.png" />
   <img width="600" height="280" alt="image" src="https://github.com/Noronha212/imagens/blob/main/AFN_saida.png" />
+
+
   
 **Atividade 6 - OpenAI Tokenizer × Tokens de Compilador**
 <img width="350" height="180" alt="image" src="https://github.com/user-attachments/assets/f450f67f-a5b2-4916-8009-9c4eba7344bd" />
@@ -156,6 +162,8 @@ Token de LLM → estatística + compressão
 
 Eles só compartilham o nome “token”, mas são conceitos totalmente diferentes.*
 
+
+
 **Atividade 7 - Tokenizar livro em português (Criar analisador léxico, scanner**
 
 Livro escolhido pelo grupo do site do projeto Gutenberg: "A Revolução Portugueza: O 31 de Janeiro (Porto 1891)"
@@ -172,4 +180,12 @@ Livro escolhido pelo grupo do site do projeto Gutenberg: "A Revolução Portugue
 
 **Henrique:**
 O analisador léxico (scanner) é interessante porque representa a primeira etapa do compilador, sendo responsável por transformar o código-fonte em tokens organizados, facilitando o trabalho das etapas seguintes ao eliminar espaços e comentários e estruturar os elementos do programa. O autômato finito também é relevante por ser eficiente para reconhecer padrões em cadeias de caracteres por meio de estados e transições, sendo amplamente utilizado na implementação de analisadores léxicos. Já a gramática regular é importante porque define como cadeias válidas de uma linguagem podem ser formadas, além de ter relação direta com os autômatos finitos, permitindo representar essas regras de forma prática e servindo como base teórica para o reconhecimento de estruturas simples em linguagens.
+
+**Thiago:**
+O analisador léxico tem por responsabilidade ler o código-fonte como uma sequência de caracteres, depois agrupá-los em parte chamadas tokens, como palavras-chave, números, operadores, etc... Ele auxilia no trabalho das fases seguintes, pois as facilita eliminando espaços em branco, comentários e outros elementos irrelevantes, além de detectar erros mais simples. A principal característica dessa etapa é criar reconhecimento de padrões.
+Já os autômatos finitos são interessantes pois representam um modelo teórico usado para implementar o analisador léxico/scanner. Eles são máquinas abstratas que podem reconhecer padrões em cadeias de caracteres, utilizando um diagrama de estados e uma função de transição. Além disso, possui um estado inicial e pode possuir mais de um estado final/de aceitação. Na prática, expressões regulares que definem tokens são convertidas em autômatos finitos, que posteriormente são implementados em código.
+
+
+
+
 

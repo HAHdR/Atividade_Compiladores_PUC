@@ -30,7 +30,7 @@ Etapas:
 
 
 
-
+******************************************************************************************************************************************************************************************
 
 
 
@@ -46,7 +46,7 @@ Etapas:
  
 A Expressão Regular utiliza o "|" para tornar possível a identificação de qualquer caracter, tornando-a mais genérica e capaz de capturar todos os identificadores (a-z, A-Z), números (0-9) e operadores (+, -, *, /). A flag /g (global) serve para capturar todos os tokens da string, sem esta flag ativa, apenas o primeiro termo da string será capturado. Os espaços são ignorados por não fazeram parte dos padrões estabelecidos.
 
-
+******************************************************************************************************************************************************************************************
 
 **Atividade 3 – Find/Replace com regex em editores de texto:**
 
@@ -63,7 +63,7 @@ A Expressão Regular utiliza o "|" para tornar possível a identificação de qu
 * CSV com dados em português converter para inglês, trocar , -> . e , -> ;
    <img width="1192" height="480" alt="image" src="https://github.com/user-attachments/assets/c4fd0ee3-278f-4d5b-8910-c038d05f2145" />
 
-
+******************************************************************************************************************************************************************************************
 
 **Atividade 4 -  RegExp em Python e Java**
 
@@ -80,7 +80,7 @@ A Expressão Regular utiliza o "|" para tornar possível a identificação de qu
 
   <img width="451" height="234" alt="image" src="https://github.com/user-attachments/assets/b15cba8c-0e3d-405e-b18d-875f931ff790" />
 
-
+******************************************************************************************************************************************************************************************
 
 **Atividade 5 - Automato Finito**
 
@@ -100,7 +100,7 @@ A Expressão Regular utiliza o "|" para tornar possível a identificação de qu
   <img width="600" height="280" alt="image" src="https://github.com/Noronha212/imagens/blob/main/AFN_final.png" />
   <img width="600" height="280" alt="image" src="https://github.com/Noronha212/imagens/blob/main/AFN_saida.png" />
 
-
+******************************************************************************************************************************************************************************************
   
 **Atividade 6 - OpenAI Tokenizer × Tokens de Compilador**
 <img width="350" height="180" alt="image" src="https://github.com/user-attachments/assets/f450f67f-a5b2-4916-8009-9c4eba7344bd" />
@@ -162,7 +162,7 @@ Token de LLM → estatística + compressão
 
 Eles só compartilham o nome “token”, mas são conceitos totalmente diferentes.*
 
-
+******************************************************************************************************************************************************************************************
 
 **Atividade 7 - Tokenizar livro em português (Criar analisador léxico, scanner)**
 
@@ -176,7 +176,7 @@ Livro escolhido pelo grupo do site do projeto Gutenberg: "A Revolução Portugue
 
  <img width="1919" height="643" alt="image" src="https://github.com/user-attachments/assets/4d7c0df8-7a25-42dc-aa5a-73530fade002" />
 
-
+******************************************************************************************************************************************************************************************
 
 **UM PARÁGRAFO DE CADA ALUNO:** “O que há de interessante no analisador léxico (scanner), automato finito, gramática regular”
 

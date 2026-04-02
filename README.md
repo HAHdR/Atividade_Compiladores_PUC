@@ -6,6 +6,7 @@
 
 **DISCIPLINA:** Compiladores
 
+**LAB 1**
 
 **EQUIPE:** Henrique Rocha, Matheus Passos, Thiago Mambrini.
 ***************************************************************************************
